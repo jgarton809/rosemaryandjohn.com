@@ -1,2 +1,2 @@
 DirectoryIndex index.html
-ErrorDocument 404 https://rosemaryandjohn.com/
+#ErrorDocument 404 https://rosemaryandjohn.com/
